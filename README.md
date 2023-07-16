@@ -24,5 +24,3 @@ Explain how others can contribute to your project. Include guidelines for submit
 ## License
 
 Specify the license under which your project is distributed. For example, you can use the MIT License.
-
-
